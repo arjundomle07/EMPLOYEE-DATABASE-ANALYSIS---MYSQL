@@ -32,9 +32,53 @@ The database includes multiple tables such as :
 6. titles
 
 
+## OVERVIEW OF TABLES:
+1. SELECT * FROM departments;
+2. SELECT * FROM dept_emp;
+3. SELECT * FROM dept_manager;
+4. SELECT * FROM employees;
+5. SELECT * FROM salaries;
+6. SELECT * FROM titles;
+
+
 ## DATABASE SCHEMA:
 
 ![Screenshot 2024-01-07 003008](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/fb98db40-6663-4ef7-be86-f1856caedff6)
 
 
+## 1.Employee Demographics:
+
+A. What is the distribution of employees based on gender?
+    Asking for an analysis of the number or percentage of employees in a given  dataset categorized by their gender. The purpose is to understand how the workforce is            distributed among different gender categories.
+    
+
+B. What is the average age of employees in each department?
+    Asking for an analysis of the average age of employees, categorized by their respective departments. The goal is to understand the distribution of the average age across     different departments within the organization.
+
+
+## 2. Salary Analysis:
+
+A. How has the average salary changed over the years?
+    Asking for an analysis of the trend or pattern in the average salary of employees over different time periods.
+
+B. Which department has the highest average salary?
+    Asking for an analysis of the average salary across different departments to identify the department with the highest average salary.
+
+C. Identify employees with the highest and lowest salaries.
+    Asking for a list of employees who have either the highest or the lowest salaries within the organization.  
+
+
+## 3. Employee Titles:
+
+A. What are the most common job titles in the company?
+    Asking for an analysis of the distribution of job titles among employees to identify which job titles are most prevalent or common within the organization.
+
+B. How often do employees change their job titles?
+    Asking for an analysis of the frequency or rate at which employees undergo changes in their job titles within the company.
+
+C. Identify employees who have held the most number of titles.
+    Asking for an analysis of employees who have experienced frequent changes in their job titles. The goal is to identify individuals who have had a significant number of       different titles throughout their employment history within the company.
+
+
+## 4. Department Information:
 
