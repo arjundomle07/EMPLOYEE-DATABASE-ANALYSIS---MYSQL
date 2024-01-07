@@ -10,3 +10,9 @@
 The organization is facing challenges in effectively managing its workforce, and there is a need for a comprehensive data analysis project to gain insights into various aspects of employee demographics, job dynamics, and tenure. The lack of detailed information hinders the ability to make informed decisions regarding talent acquisition, employee engagement, and overall workforce optimization.
 
 
+## Business Context:
+
+This data analysis project on the employee database serves to provide valuable insights for human resources and management teams within the organization.
+
+Understanding employee demographics, job dynamics, and tenure is crucial for making informed decisions to enhance workforce management, optimize departmental efficiency, and improve overall employee satisfaction.
+
