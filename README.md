@@ -16,3 +16,25 @@ This data analysis project on the employee database serves to provide valuable i
 
 Understanding employee demographics, job dynamics, and tenure is crucial for making informed decisions to enhance workforce management, optimize departmental efficiency, and improve overall employee satisfaction.
 
+
+## Project Summary:
+
+The project involves conducting a comprehensive data analysis on an employee database.
+
+The primary objectives are to gain insights into : employee demographics, Salary Analysis, Employee Titles,  Department Information, Managerial Analysis, Hiring Trends, Employee Longevity.
+
+The database includes multiple tables such as :
+1. employees 
+2. departments
+3. dept_emp
+4. dept_manager
+5. salaries
+6. titles
+
+
+## DATABASE SCHEMA:
+
+![Screenshot 2024-01-07 003008](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/fb98db40-6663-4ef7-be86-f1856caedff6)
+
+
+
