@@ -1,1 +1,3 @@
 # EMPLOYEE-DATABASE-ANALYSIS---MYSQL
+
+![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/b3471ade-7f8f-4534-829e-cf33ec66289d)
