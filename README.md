@@ -4,8 +4,7 @@
 | ---------------------- | ---------------------- |
 | ![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/409eb1e8-398b-421e-9f48-2f3284ca24d3)  | ![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/14a4ce84-e35e-4c40-8e61-9053acc0f6b5)|
 
-[Linkedin Profile](https://www.linkedin.com/in/arjun-domle/![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/2e2d7fbf-a569-4c98-b0d6-f0d7065f736d)
-)
+[Linkedin Profile](https://www.linkedin.com/in/arjun-domle/)
 [Power BI Projects](https://www.novypro.com/profile_projects/arjun-domle![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/c51b84a7-767d-4a83-aa1c-fc2296c69cd1)
 )
 
