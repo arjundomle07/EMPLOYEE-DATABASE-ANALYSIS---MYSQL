@@ -91,6 +91,51 @@ C. Identify employees who have held the most number of titles.
 ## 4. Department Information:
 
 A. How many employees are currently assigned to each department?
-   
-    A. How many employees are currently assigned to each department?
+
+    Asking for a count of the number of employees currently associated with each department within the organization.
+
+B. Which department has had the most managers over time?
+
+    Asking for an analysis of the historical managerial activity within each department.
+
+
+## 5. Managerial Analysis:
+
+A. Who are the current managers in each department?
+
+    Asking for information about employees who are currently serving as managers in each department.
+
+B. How many times has each employee served as a manager?
+
+    Asking for an analysis of the managerial roles held by each employee over time.
+
+
+## 6. Hiring Trends:
+
+A. How has the number of new hires changed over the years?
+
+    Asking for an analysis of the trends or patterns in the hiring activity of the organization over different years.
+
+B. Identify the departments with the highest and lowest hiring rates.
+
+    Asking for an analysis of the relative hiring rates across different departments within the organization. The goal is to determine which departments have experienced higher or lower rates of new hires compared to their total workforce.
+
+
+## 7. Employee Longevity:
+
+A. What is the average tenure of employees in the company?
+
+    Asking for an analysis of the average length of time that employees have been working for the organization.
+
+B. Identify employees who have been with the company the longest.
+
+    Asking for a list of employees who have the longest tenure or have been with the company for the greatest amount of time.
+
+C. How many employees have retired or left the company in recent years?
+
+    Asking for an analysis of the number of employees who have either retired or voluntarily left the company within a specific recent time frame.
+
+
+
+
 
