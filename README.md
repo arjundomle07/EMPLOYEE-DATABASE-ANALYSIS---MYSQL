@@ -4,7 +4,9 @@
 | ---------------------- | ---------------------- |
 | ![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/409eb1e8-398b-421e-9f48-2f3284ca24d3)  | ![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/14a4ce84-e35e-4c40-8e61-9053acc0f6b5)|
 
-[Linkedin Profile](https://www.linkedin.com/in/arjun-domle/![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/265b6346-9328-4b13-8255-38dee6124a8b)
+https://www.linkedin.com/in/arjun-domle/![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/cdee3471-ac3a-4a81-9058-cbea396141ad)
+
+
 
 ## Problem Statement:
 
