@@ -6,6 +6,8 @@
 
 [Linkedin Profile](https://www.linkedin.com/in/arjun-domle/![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/2e2d7fbf-a569-4c98-b0d6-f0d7065f736d)
 )
+[Power BI Projects](https://www.novypro.com/profile_projects/arjun-domle![image](https://github.com/arjundomle07/EMPLOYEE-DATABASE-ANALYSIS---MYSQL/assets/123333114/c51b84a7-767d-4a83-aa1c-fc2296c69cd1)
+)
 
 
 
@@ -142,5 +144,6 @@ C. How many employees have retired or left the company in recent years?
 
 
 
-
+# Thank you for visiting our project repository!
+## Happy Analysis
 
