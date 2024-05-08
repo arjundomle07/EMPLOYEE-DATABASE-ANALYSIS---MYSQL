@@ -55,7 +55,7 @@ A. What is the distribution of employees based on gender?
 
 B. What is the average age of employees in each department?
 
-    Asking for an analysis of the average age of employees, categorized by their respective departments. The goal is to understand the distribution of the average age across     different departments within the organization.
+    Asking for an analysis of the average age of employees, categorized by their respective departments. The goal is to understand the distribution of the average age across different departments within the organization.
 
 
 ## 2. Salary Analysis:
@@ -85,7 +85,7 @@ B. How often do employees change their job titles?
 
 C. Identify employees who have held the most number of titles.
 
-    Asking for an analysis of employees who have experienced frequent changes in their job titles. The goal is to identify individuals who have had a significant number of       different titles throughout their employment history within the company.
+    Asking for an analysis of employees who have experienced frequent changes in their job titles. The goal is to identify individuals who have had a significant number of different titles throughout their employment history within the company.
 
 
 ## 4. Department Information:
