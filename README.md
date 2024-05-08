@@ -144,6 +144,6 @@ C. How many employees have retired or left the company in recent years?
 
 
 
-# Thank you for visiting our project repository!
+# Thank you for visiting project repository!
 ## Happy Analysis
 
