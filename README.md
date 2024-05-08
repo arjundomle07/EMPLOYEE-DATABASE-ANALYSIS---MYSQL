@@ -90,3 +90,6 @@ C. Identify employees who have held the most number of titles.
 
 ## 4. Department Information:
 
+A. How many employees are currently assigned to each department?
+    A. How many employees are currently assigned to each department?
+
